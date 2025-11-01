@@ -1,0 +1,21 @@
+# Visual Studio 编译产物
+*.exe
+*.obj
+*.ipch
+*.aps
+*.pdb
+*.ilk
+
+# Debug / Release 目录下的临时文件
+Debug/*
+!Debug/eas.png
+!Debug/grade_info.txt
+!Debug/jd-xq.jpg
+!Debug/kn.wav
+!Debug/student.png
+!Debug/student_info.txt
+!Debug/teacher.png
+!Debug/teacher_info.txt
+  # 保留图片
+Release/
+.vs/
